@@ -1,4 +1,13 @@
+# Output files
+output/
+response.json
+
+# Environment files
 .env
-output/*.json
-*.exe
+
+# VS Code
 .vscode/
+
+# Go binaries
+*.exe
+*.exe~
