@@ -1,13 +1,13 @@
-# Output files
-output/
+# Generated output
+output/*.json
+output/*.csv
+output/*.html
+
+# Temporary files
 response.json
 
-# Environment files
+# Environment
 .env
-
-# VS Code
-.vscode/
 
 # Go binaries
 *.exe
-*.exe~
