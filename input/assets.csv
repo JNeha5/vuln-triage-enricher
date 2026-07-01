@@ -1,0 +1,6 @@
+asset_name,asset_weight
+domain-controller,1.0
+database-server,0.9
+web-server,0.8
+developer-laptop,0.4
+test-vm,0.2

@@ -1,0 +1,11 @@
+# Generated output
+output/
+
+# Temporary API response
+response.json
+
+# Environment variables
+.env
+
+# Go binaries
+*.exe

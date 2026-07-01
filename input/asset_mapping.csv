@@ -1,0 +1,4 @@
+cve_id,asset_name
+CVE-2021-44228,database-server
+CVE-2024-3094,web-server
+CVE-2023-34362,domain-controller
