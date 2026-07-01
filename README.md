@@ -1,3 +1,4 @@
+
 # Vulnerability Triage & Enrichment Engine
 
 A Go-based vulnerability triage engine that enriches CVEs using multiple threat intelligence sources and prioritizes them based on exploitability, severity, and asset criticality.
@@ -169,3 +170,11 @@ The application generates:
 ## Author
 
 **J Neha**
+
+-Project Overview
+-Architecture
+-Features
+-How to Run
+-Sample Input
+-Sample Output
+
